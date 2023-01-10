@@ -3,6 +3,10 @@
 ## Boost
 `Cmd+T` > `New Boost` > `Custom` > `A specific website` > `Create Boost` > paste codes
 
+a place to find boosts
+
+https://arcboosts.com/boosts
+
 ### ChatGPT
 
 https://github.com/Xilantra/enhanced-chatgpt
@@ -18,8 +22,3 @@ https://arcboosts.com/boosts/14/twitter-metrics
 show a mindful popup when scroll many tweets
 
 https://github.com/ashidiqidimas/Mindful-Twitter
-
-## Credits
-
-a place to find boosts
-https://arcboosts.com/boosts
