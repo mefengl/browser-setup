@@ -3,13 +3,17 @@
 ## Boost
 `Cmd+T` > `New Boost` > `Custom` > `A specific website` > `Create Boost` > paste codes
 
-ChatGPT
+### ChatGPT
 
 https://github.com/Xilantra/enhanced-chatgpt
 
-Twitter
+### Twitter
 
 https://github.com/Xilantra/enhanced-twitter
+
+show like ration stuff
+
+https://arcboosts.com/boosts/14/twitter-metrics
 
 ## Credits
 
