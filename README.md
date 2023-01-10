@@ -18,7 +18,3 @@ https://github.com/Xilantra/enhanced-twitter
 show like ration stuff
 
 https://arcboosts.com/boosts/14/twitter-metrics
-
-show a mindful popup when scroll many tweets
-
-https://github.com/ashidiqidimas/Mindful-Twitter
