@@ -13,8 +13,6 @@ https://github.com/Xilantra/enhanced-chatgpt
 
 ### Twitter
 
-https://github.com/Xilantra/enhanced-twitter
-
 show like ration stuff
 
 https://arcboosts.com/boosts/14/twitter-metrics
