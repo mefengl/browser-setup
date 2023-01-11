@@ -7,10 +7,6 @@ a place to find boosts
 
 https://arcboosts.com/boosts
 
-### ChatGPT
-
-https://github.com/Xilantra/enhanced-chatgpt
-
 ### Twitter
 
 show like ration stuff
