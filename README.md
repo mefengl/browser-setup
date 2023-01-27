@@ -11,4 +11,4 @@ https://arcboosts.com/boosts
 
 show like ration stuff
 
-https://arcboosts.com/boosts/14/twitter-metrics
+https://github.com/dhilman/boosts/tree/main/twitter-metric-ratios
