@@ -1,14 +1,27 @@
 # my-Arc
 
-## Boost
-`Cmd+T` > `New Boost` > `Custom` > `A specific website` > `Create Boost` > paste codes
+## Extensions
 
-a place to find boosts
+1Password
 
-https://arcboosts.com/boosts
+https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa
 
-### Twitter
+Vimium C
 
-show like ration stuff
+https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg
 
-https://github.com/dhilman/boosts/tree/main/twitter-metric-ratios
+Translate Web Pages
+
+https://github.com/FilipePS/Traduzir-paginas-web
+
+Tampermonkey
+
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+I don't care about cookies
+
+https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja
+
+Grammarly
+
+https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen
