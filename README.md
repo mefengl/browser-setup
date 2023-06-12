@@ -29,3 +29,7 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 Grammarly
 
 https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen
+
+Prevent Duplicate Tabs
+
+https://github.com/brcontainer/prevent-duplicate-tabs
