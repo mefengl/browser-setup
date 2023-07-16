@@ -20,3 +20,11 @@
 
 ### Tab Management
 - [Prevent Duplicate Tabs](https://github.com/brcontainer/prevent-duplicate-tabs)
+
+### Video
+
+- [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+
+### Strange
+
+- [Wiki Age](https://chrome.google.com/webstore/detail/wiki-age/gbdnhkbifahdipaaepiolmmihjdbmegc)
