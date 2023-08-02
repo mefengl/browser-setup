@@ -17,6 +17,7 @@ Holder option and then click on the link or tab can open a split window
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [Vimium C](https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)
 - [Linkclump](https://github.com/benblack86/linkclump)
+  - For Safari, [Open Links](https://github.com/mefengl/userscript-open-links)
 
 ### Ad Blockers
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
