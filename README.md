@@ -1,12 +1,4 @@
-# my-Arc
-
-## Tricks
-
-### Split window
-
-Drag can create a split window
-
-Holder option and then click on the link or tab can open a split window
+# Browser Setup
 
 ## Extensions
 
