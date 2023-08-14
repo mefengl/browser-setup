@@ -21,7 +21,9 @@ Holder option and then click on the link or tab can open a split window
 
 ### Ad Blockers
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
+
+- [I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm)
+  - repo: https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies
 
 ### Text Manipulation
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
