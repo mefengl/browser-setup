@@ -40,3 +40,5 @@
 ### Strange
 
 - [Wiki Age](https://chrome.google.com/webstore/detail/wiki-age/gbdnhkbifahdipaaepiolmmihjdbmegc)
+
+- [Paycheck for X](https://chrome.google.com/webstore/detail/paycheck-for-x-formerly-t/ldgffedhocinnolmaaecnppdfmmofilp)
