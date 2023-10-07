@@ -16,10 +16,13 @@
   - For Safari, [Open Links](https://github.com/mefengl/userscript-open-links)
 
 ### Ad Blockers
+
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 - [I still don't care about cookies](https://chrome.google.com/webstore/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm)
   - repo: https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies
+
+- [Substack Banner Fixer](https://chromewebstore.google.com/detail/substack-banner-fixer/cmdmlckhahbdjjifghecfnhnnddgboee)
 
 ### Text Manipulation
 
