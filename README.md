@@ -43,3 +43,9 @@
 - [Wiki Age](https://chrome.google.com/webstore/detail/wiki-age/gbdnhkbifahdipaaepiolmmihjdbmegc)
 
 - [Paycheck for X](https://chrome.google.com/webstore/detail/paycheck-for-x-formerly-t/ldgffedhocinnolmaaecnppdfmmofilp)
+
+### Disposable
+
+- [Video Downloader Unlimited](https://chromewebstore.google.com/detail/video-downloader-unlimite/mkjjckchdfhjbpckippbnipkdnlidbeb)
+
+- [Cosmos Enhanced](https://chromewebstore.google.com/detail/cosmos-enhanced/bgjffbeeolcikmcpliaekbgdkflchakg)
