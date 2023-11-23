@@ -44,6 +44,10 @@
 
 - [Paycheck for X](https://chrome.google.com/webstore/detail/paycheck-for-x-formerly-t/ldgffedhocinnolmaaecnppdfmmofilp)
 
+### AI
+
+- [Doozy: AI Made Easy](https://chromewebstore.google.com/detail/doozy-ai-made-easy/okifoaikfmpfcamplcfjkpdnhfodpkil)
+
 ### Disposable
 
 - [Video Downloader Unlimited](https://chromewebstore.google.com/detail/video-downloader-unlimite/mkjjckchdfhjbpckippbnipkdnlidbeb)
